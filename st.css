@@ -1,0 +1,17 @@
+h1 {
+  color:Green;
+}
+div.gfg {
+  margin:5px;
+  padding:5px;
+  background-color: green;
+  width: 500px;
+  height: 110px;
+  overflow: auto;
+  text-align:justify;
+}
+div .pt-2{
+  width: 400px;
+  height: 400px;
+  background: #fff;
+}
